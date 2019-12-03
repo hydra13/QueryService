@@ -1,0 +1,19 @@
+{
+  "name": "ya.test.arch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jshint": "^2.10.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
